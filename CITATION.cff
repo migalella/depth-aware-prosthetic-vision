@@ -10,7 +10,7 @@ authors:
     given-names: Edoardo
 date-released: 2026-01-29
 license: MIT
-repository-code: "https://github.com/michelinot99/depth-aware-prosthetic-vision"
+repository-code: "https://github.com/migalella/depth-aware-prosthetic-vision"
 keywords:
   - simulated prosthetic vision
   - phosphenes
