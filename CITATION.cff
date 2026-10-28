@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Depth-Aware Prosthetic Vision: a real-time simulated phosphene vision pipeline with LiDAR and semantic segmentation"
+authors:
+  - family-names: Galella
+    given-names: Michele Ivo
+  - family-names: Frascella
+    given-names: Simona
+  - family-names: Capobianco
+    given-names: Edoardo
+date-released: 2026-01-29
+license: MIT
+repository-code: "https://github.com/michelinot99/depth-aware-prosthetic-vision"
+keywords:
+  - simulated prosthetic vision
+  - phosphenes
+  - retinal implant
+  - LiDAR
+  - YOLO
+  - neuroengineering

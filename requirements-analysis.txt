@@ -1,0 +1,4 @@
+# Dependencies for the user-study analysis (analysis/form_analysis.py)
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13

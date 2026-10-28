@@ -1,0 +1,10 @@
+# Core runtime dependencies for the real-time pipeline (vision_project.py)
+# Recommended: Python 3.10 - 3.12
+numpy>=1.24
+opencv-python>=4.8
+torch>=2.1
+ultralytics>=8.3        # YOLO11 segmentation
+record3d>=1.4           # iPhone LiDAR / TrueDepth streaming (Record3D app)
+cmake>=3.22             # build dependency of record3d
+pyaudio>=0.2.13         # audio feedback + microphone (macOS: brew install portaudio)
+vosk>=0.3.45            # offline speech recognition ("Jarvis" voice control)
