@@ -214,7 +214,7 @@ depth-aware-prosthetic-vision/
 |---|---|
 | **Michele Ivo Galella** | [@migalella](https://github.com/migalella) |
 | **Simona Frascella** | [@sfrascella](https://github.com/sfrascella) |
-| **Edoardo Capobianco** | |
+| **Edoardo Capobianco** | [@edocap2003](https://github.com/edocap2003) |
 
 ## Acknowledgements
 
